@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+  }
+  
+  html, body, #root {
+    background-color: #efefef;
+    
+  }
+span {
+  color: rgb(108, 224, 108);
+}
+::-webkit-scrollbar {
+  width: 5px; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(108, 224, 108); 
+}
